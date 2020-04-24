@@ -1,0 +1,79 @@
+__label__activity , 太太 太漂亮 佳琦 直播间 买 赠品 太 满意 购物
+__label__detail , 质量 确实 不错
+__label__detail , 这套 颜值 真的 高 送 肖战 贴纸 喜欢
+__label__others , 囤
+__label__artificial , 没用 看着 不错 商家 服务态度 很棒
+__label__others , 没用
+__label__product , 质量 品牌 值得 信赖
+__label__product , 肖战 推荐 买 好看 一套 双立人 刀具 家里 厨房 适配 肖战 推荐 希望 品牌 肖战 深度 合作 推荐 产品 博君 一肖 团粉
+__label__detail , 战战 同款 大小 正好 白色 好看
+__label__artificial , 奔 双立人 品牌 质量 真心 厚 重 做工 精致 锅 刀具 客服 不给力 问 答 模棱两可 好似 承担责任 官 方式 回答 问 等于 没问 购物 体验 确实 不好 全 五星 好评 是因为 商品 双立人 质量 真的 很棒
+__label__product , 刀 锋利 不错
+__label__product , 不错 餐具 全是 双立人
+__label__product , 圆柄 完美 母上 大人 喜欢
+__label__detail , 收到 热 食物 很快 锅边 严密 漏气 锅 材质 分量 外形 大小
+__label__product , 真的 超级 划算 质量 原装 进口 追评
+__label__product , 牌子 质量 颜色 优秀 代言人
+__label__product , 值得 信赖 品牌 送品
+__label__others , 四舍五入 等于 战战用 同款
+__label__detail , 特别 满意 美观 保温 效果
+__label__others , 喜欢 小赞冲 鸭
+__label__activity , 赞比 同款 真的 漏网 办法 小小 可爱 活动 实惠 值
+__label__others , 肖战 代言 而来 战战 加油
+__label__transfer , 物流 小哥 挺 疫情 紧张 快递 小区 外 混乱 小哥 特意 两次 电话 提醒
+__label__others , 不錯
+__label__others , 肖战 好看
+__label__artificial , 双十 凌晨 付 款 收到 货 地址 填错 问 客服 说 拍 退掉 客服 说 不用 东西 寄 原 地址 东西 邮 快递 显示 收到 发新 地址 效率 办事 方式 收到 东西 商场 里 区别 建议 谨慎 购买
+__label__others , 很赞 暂时 未
+__label__product , 双立人 质量 没得说 送 保温杯 焖 烧杯 超级 好看 粉色 太嫩 希望 活动
+__label__activity , 发货 很快 到货 很快 寄 家里 妈 问 肖战 买 哈哈哈 活动 买 划算 虾 粉色 好看 噢 双立人 值得 信赖 一如既往 支持 战哥
+__label__product , 厨房 缺 一把 剪刀 终于 买
+__label__product , 战而来 看着 肖战 想 杯子 收到 爱不释手 水多 喝 好几杯
+__label__artificial , 客服 太 差劲
+__label__detail , 颜色 好看 想要 过滤网 保温杯 容量 再大 一点 更好
+__label__detail , 手柄 特别 烫手 设计 不合理 简陋 钢质 不好 易脏 擦不掉 质量 不好 特价 东西 不好 图 便宜 上当
+__label__others , 战战 买 这款 饮水机 机子 战战 赞
+__label__detail , 博君 一肖为 战而来 特别 保温
+__label__others , 好用 沾 希望 久
+__label__others , 很漂亮 质量 终于 战战 同款
+__label__activity , 寄回 家里 李佳琦 直播 买到 划算 一点
+__label__artificial , 双立人 质量 没得说 喜欢 一组 刀具 送 煎锅 超级 棒 邮寄 过程 中 发生 一点 客服 贴心 退换 超 nice
+__label__detail , 锋利 轻便
+__label__others , 爱 李佳琦
+__label__transfer , 喜欢 发货 很快 送 小赞 贴纸
+__label__product , 家里 东西 双立人
+__label__others , 先 好评
+__label__product , 质感 双立人 信得过 今晚 吃 牛排
+__label__detail , 超级 无敌 美
+__label__detail , 战战 杯子 肖战 同款 耶 外形 好看 虾 粉色 清新 设计
+__label__others , 肖战 买 东西 代言人 选 更好 哈哈哈
+__label__activity , 李佳琦 直播 买
+__label__detail , 想 说 这锅 真的 中 不中用 锅 把手 传热 烫 这锅 把手 蹭 疼手 炒菜 烫手 碰 搞不懂
+__label__activity , 肖烟 四起 战而来 小飞侠 代言 肖战 代言 东西 买买 买 ps 双立人 送 周边 算是 买 多肖战 代言 中 走心 实用 哈哈哈
+__label__detail , 杯子 颜色 好看 收到 贴纸 开心 没用 看着 不错 滤网 取 我怕 掰 坏 哈哈哈 哈哈哈
+__label__others , 送 朋友 见到
+__label__others , 质量 想象
+__label__others , 小飞侠 战而来
+__label__detail , 第一次 买 贵 刀 包装 份量 十八 子 刀 刀 质量 好切 东西 省力 新刀 冻肉 左 用力 右 用力 刀 一点 费力 棒 做饭 满满的 幸福感 刀具 买好 直播间 抢 开心
+__label__detail , 宝贝 不错 肖战来 买 底下 防滑垫 圈 设计 保温 效果 挺 塑料 那种 气味 几天 散 bjyxszd
+__label__product , 颜值 在线 品质 在线
+__label__detail , 一套 真的 好好看 试 刀快 感动 明天 当好 厨娘
+__label__detail , 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用 喜欢 实用
+__label__product , 颜值 爆表 妈妈 喝水 买
+__label__transfer , 物流 很快 两天 包装 外包装 大箱 加 泡泡 纸包 保温 效果 没用
+__label__transfer , 时期 快递 没法 退 搁置
+__label__product , 谢谢 双立人 选择 肖战
+__label__product , 博君 一肖为 战而来 支持 肖战 肖战 双立人 大卖
+__label__product , 满意 正品 值得 推荐
+__label__detail , 没用 看着 很漂亮 精致
+__label__product , 博君 一肖为 战而来 信任 双立人 支持 战战 合作 双赢 祝 双立人 大卖 肖战冲 鸭
+__label__others , 哥哥 同款 耶 喜欢
+__label__others , 支持 肖战 哥哥
+__label__others , 肖战 杯子
+__label__product , 佳琦 直播间 买 好看 过年 做饭 永送 保温杯 焖 烧杯 不错
+__label__others , ihavebeenwaitingawhiletoreceivethisiboughtthisteafiltercupbecauseisaw 肖战 usingitandibecameinterestedinitilikethecolourandsizeandlookslikequalityworkmanshipilookforwardtousingitoften 一段时间 买 茶滤杯 是因为 肖战 兴趣 喜欢 颜色 尺寸 做工 期待 很棒 产品
+__label__others , 真的 耐不住 战哥 走 杯子 终于 买
+__label__detail , 这刀 实在 太快 第一天 刚用 完洗 手指 划出 口子 十二分 小心
+__label__product , 没用 正品
+__label__product , 做工 挺不错 圆滑
+__label__detail , 厨房 小白 锅 晋级 商品 品质 底部 材料 厚 nice 外观 材质 不锈钢 漂亮

@@ -1,0 +1,22 @@
+__label__product , 质量 满意
+__label__product , 支持 肖战 杯子 漂亮 保温 效果 特别 棒 好用 赞赞 贴纸 很漂亮 谢谢
+__label__gift , 送 肖战 周边 好好看
+__label__detail , 未用 设计 好看 质量 细节 不错
+__label__others , 适合
+__label__product , 价格低 囤货
+__label__detail , 做工 质量 舒服 杯底 防滑 外形 外观 喜欢 颜色 看着 舒服 整体 评价 保温 值得 购买
+__label__activity , 疫情 期间 发货 快佳琦 直播间 抢 货 开心 买到 疫情 结束 搬家 暂时 开封 再来 追评
+__label__transfer , 双立人 锅 不错 锅 蒸笼 两个 包裹 寄过来 店家 服务态度 发货 速度 全 五分 好评
+__label__detail , 手 账本 拉 闺蜜 买 嘻嘻 用战哥 代言 保温杯 感觉 喝 水 甜甜的 保温 效果 特别 喜欢 喝水 喝 三大瓶
+__label__others , 小飞侠 喜欢
+__label__others , 追星 党 战哥 同款 买 东西 想想 战哥 代言
+__label__transfer , 吐槽 参与 双十 发货 最慢 锅 真的 好用 其他人 漏汤 压 东西 软烂 爱 爱
+__label__artificial , 回复 较慢 配件 卖 需 配置
+__label__product , 质量 锅子
+__label__others , 高大 厨房 一景
+__label__others , 妈妈 买 吃 苹果 费事
+__label__detail , 宝贝 颜色 很漂亮 小飞侠 战战 买 实用
+__label__others , 肖战 call
+__label__product , 正品 剪刀 剪 狗子 剪肉 干什么 好使
+__label__others , 确实 值得 捅
+__label__transfer , 发货 速度 快刚 收到 没用
